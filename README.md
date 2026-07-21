@@ -1,16 +1,16 @@
 <a href="https://github.com/sameer6874">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sameer%20Mozan&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20Python%20%7C%20Java%20%7C%20FastAPI%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=17&descColor=bae6fd" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sameer%20Mozan&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Analyst%20%E2%80%94%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20FastAPI%20%7C%20AI%2FML&descAlignY=58&descSize=17&descColor=bae6fd" />
 </a>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Full+Stack+Builder;Python+%7C+FastAPI+%7C+Java+%7C+Django;MCA+Graduate+%40+Atria+Institute+of+Technology;Open+to+Software+Developer+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Data+Analyst;AI+%26+Full+Stack+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+FastAPI;MCA+Graduate+%40+Atria+Institute+of+Technology;Open+to+Software+Developer+%2F+Data+Analyst+Roles" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/sameer-mozan69">
-    <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Software%20Developer%20%2F%20AI%20%2F%20Full%20Stack%20Roles-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" />
+    <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Software%20Developer%20%2F%20Data%20Analyst%20%2F%20AI%20Roles-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" />
   </a>
 </div>
 
@@ -42,18 +42,22 @@
 
 ```typescript
 const sameerMozan = {
-  title:       "Software Developer (AI/ML & Full-Stack)",
-  education:   "Master of Computer Applications (MCA) · Atria Institute of Technology (CGPA: 8.1)",
-  background:  "Bachelor of Computer Applications (BCA) · Sharnbasava University (CGPA: 8.2)",
+  title:       "Software Developer & Data Analyst (AI/ML & Full-Stack)",
+  education:   "Master of Computer Applications (MCA) · Atria Institute of Technology (CGPA: 8.1/10)",
+  background:  "Bachelor of Computer Applications (BCA) · Sharnbasava University (CGPA: 8.2/10)",
   stack:       {
-    languages:  ["Python", "Java", "JavaScript", "C", "PHP"],
+    languages:  ["Python", "SQL", "Java", "JavaScript", "C", "PHP"],
     frameworks: ["FastAPI", "Django", "Flask", "Streamlit", "HTML5", "CSS3"],
     databases:  ["MySQL", "MongoDB", "SQLite"],
-    ai_ml:      ["OpenCV", "Face Recognition", "NLP", "NewsAPI"],
-    tools:      ["Git", "REST APIs", "Power BI", "MS Excel"],
+    data:       ["Power BI", "Excel", "Plotly", "Matplotlib", "Seaborn", "Pandas", "NumPy"],
+    ai_ml:      ["OpenCV", "Face Recognition", "NLP", "Scikit-learn", "NewsAPI"],
+    tools:      ["Git", "GitHub", "REST APIs", "Jupyter Notebook", "VS Code", "Postman"],
   },
-  internship:  "AI Entry Level Intern @ Edutainer (PAT Technologies Pvt. Ltd.)",
-  status:      "Fresher Software Developer seeking full-time roles",
+  experience:  [
+    "Data Analyst Intern @ Unified Mentor Pvt. Ltd. (Feb 2026 – May 2026)",
+    "AI Entry Level Intern @ Edutainer, PAT Technologies Pvt. Ltd.",
+  ],
+  status:      "Fresher seeking full-time Software Developer / Data Analyst roles",
   location:    "Bengaluru, India · Open to Remote",
 };
 ```
@@ -62,20 +66,54 @@ const sameerMozan = {
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Internship Experience
 
-### 📰 AI-Based Worldwide News Trend Detection — *Internship Project @ Edutainer*
-> Built an automated news aggregator that gathers global news articles and identifies trending topics using AI-based text analysis and sentiment classification.
+### 📊 Data Analyst Intern — *Unified Mentor Pvt. Ltd.* (Feb 2026 – May 2026)
+> Analyzed real-world datasets, built interactive dashboards, and generated business insights for decision-ready reporting.
+
+| Layer | Technology |
+| :--- | :--- |
+| **Core Tech** | Python · SQL · Excel · Power BI · Pandas |
+| **Key Contributions** | Cleaned and transformed large datasets (missing values, duplicates, inconsistent formats, outliers), performed EDA to surface trends and insights, built interactive Power BI dashboards with KPIs/charts/slicers/filters, wrote SQL queries for retrieval and reporting, automated reporting workflows to cut manual effort. |
+
+### 🤖 AI Entry Level Intern — *Edutainer (PAT Technologies Pvt. Ltd.)*
+> Built an automated news aggregator that gathers global news and identifies trending topics using AI-based text analysis.
 
 | Layer | Technology |
 | :--- | :--- |
 | **Core Tech** | Python · FastAPI · Streamlit · NLP · NewsAPI · MongoDB |
-| **Key Features** | Automated web data ingestion, sentiment analysis (positive/negative tone), category filtering, real-time analytics dashboard. |
+| **Key Features** | Automated web data ingestion, sentiment analysis, category filtering, real-time analytics dashboard. |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 Factory Reallocation & Shipping Optimization System
+> Predicts shipment arrival time based on product, factory, region, and shipping method, with a "what-if" simulator for reassigning orders between factories.
+
+| Layer | Technology |
+| :--- | :--- |
+| **Core Tech** | Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Streamlit · Plotly |
+| **Key Features** | Shipping delay prediction, factory reassignment simulator, interactive dashboard for non-technical users. |
+
+**Skills Used:** Machine Learning, Power BI, Data Cleaning, SQL, Data Visualization, Business Analytics
+
+---
+
+### 📁 Case Management Analytics Dashboard
+> Interactive dashboard to monitor case lifecycle, track workflow progress, and analyze operational performance.
+
+| Layer | Technology |
+| :--- | :--- |
+| **Core Tech** | Python · SQL · Power BI · Streamlit · Plotly · Pandas |
+| **Key Features** | KPIs for Total Cases, Resolution Rate, Pending Cases, Avg. Resolution Time, High-Priority Case Tracking; real-time trend analysis. |
+
+**Skills Used:** Power BI, Dashboard Design, Data Visualization, SQL, Business Analytics
 
 ---
 
 ### 🔍 Finding Missing Person Using AI — *MCA Final Year Project*
-> Developed an AI-driven forensic identification platform performing real-time face detection and matching against missing person databases.
+> AI-driven forensic identification platform performing real-time face detection and matching against missing person databases.
 
 | Layer | Technology |
 | :--- | :--- |
@@ -102,6 +140,9 @@ const sameerMozan = {
 ### Web & Frameworks
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,flask,fastapi,bootstrap&theme=dark" /></a>
 
+### Data & Analytics
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=powerbi,anaconda&theme=dark" /></a>
+
 ### Databases
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" /></a>
 
@@ -110,15 +151,19 @@ const sameerMozan = {
 
 ### Certifications
 <p>
-  <img src="https://img.shields.io/badge/Python_for_Data_Science-7dd3fc?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Data_Analytics_Job_Simulation_(Deloitte)-7dd3fc?style=for-the-badge&logo=deloitte&logoColor=0d1117&labelColor=0a2a3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Core_Java_Programming-bae6fd?style=for-the-badge&logo=java&logoColor=0d1117&labelColor=0d3347" />
+  <img src="https://img.shields.io/badge/Power_BI_for_Data_Analytics-bae6fd?style=for-the-badge&logo=powerbi&logoColor=0d1117&labelColor=0d3347" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Real_World_AI-7dd3fc?style=for-the-badge&logo=openai&logoColor=0d1117&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Python_for_Data_Analysis-7dd3fc?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0a2a3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ethical_Hacking-bae6fd?style=for-the-badge&logo=kali-linux&logoColor=0d1117&labelColor=0d3347" />
+  <img src="https://img.shields.io/badge/Business_Analytics_with_Excel-bae6fd?style=for-the-badge&logo=microsoft-excel&logoColor=0d1117&labelColor=0d3347" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Web_Development_JS-7dd3fc?style=for-the-badge&logo=javascript&logoColor=0d1117&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Core_Java_Programming-7dd3fc?style=for-the-badge&logo=java&logoColor=0d1117&labelColor=0a2a3a" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Real_World_AI-bae6fd?style=for-the-badge&logo=openai&logoColor=0d1117&labelColor=0d3347" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ethical_Hacking-7dd3fc?style=for-the-badge&logo=kali-linux&logoColor=0d1117&labelColor=0a2a3a" />
 </p>
 
 ---
@@ -180,14 +225,3 @@ const sameerMozan = {
     <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
   </a>
 </div>
-
-<br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn" />
-
-## 📄 Resume
-
-[Download my resume (PDF)](Sameer_Mozan_Resume_July_DA.pdf)
