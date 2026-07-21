@@ -187,3 +187,7 @@ const sameerMozan = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+## 📄 Resume
+
+[Download my resume (PDF)](Sameer_Mozan_Resume_July_DA.pdf)
